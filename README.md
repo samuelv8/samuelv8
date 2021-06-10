@@ -7,7 +7,7 @@
 
 Experience with development in C, C++ and Python languages.
 
-I'm currently nterested in software engineering and high performance programming
+I'm currently interested in software engineering and high performance programming
 
 
 <!--
