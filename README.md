@@ -1,7 +1,7 @@
 # Samuel E. Vendramini
 ## Computer Engineering Student at Instituto Tecnológico de Aeronáutica (ITA)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](LINK_LINKEDIN=https://www.linkedin.com/in/samuel-vendramini/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-vendramini)](https://www.linkedin.com/in/samuel-vendramini)
 
 ### About
 
@@ -23,4 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
 -->
