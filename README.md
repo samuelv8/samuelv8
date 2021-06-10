@@ -1,4 +1,14 @@
-### Hi there 👋
+# Samuel E. Vendramini
+## Computer Engineering Student at Instituto Tecnológico de Aeronáutica (ITA)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](LINK_LINKEDIN=https://www.linkedin.com/in/samuel-vendramini/)
+
+### About
+
+Experience with development in C, C++ and Python languages.
+
+I'm currently nterested in software engineering and high performance programming
+
 
 <!--
 **samuelv8/samuelv8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
