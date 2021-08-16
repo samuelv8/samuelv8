@@ -17,6 +17,7 @@ I'm currently interested in software engineering and high performance programmin
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
+<!--
 ### Insights
 
 <div class='stats'>
@@ -24,6 +25,7 @@ I'm currently interested in software engineering and high performance programmin
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelv8&langs_count=6&theme=nord" />
   </a>
 </div>
+-->
 
 <!--
 **samuelv8/samuelv8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
