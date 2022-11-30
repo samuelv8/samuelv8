@@ -9,6 +9,13 @@ Experience with development in C/C++, Python and Javascript/Typescript languages
 
 I'm currently interested in software engineering and high performance programming.
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelv8&hide=stars&count_private=true&show_icons=true&theme=graywhite" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelv8&hide=dart,jupyter_notebook&layout=compact&theme=graywhite&langs_count=6" />
+</a>
+
 ### Knowledge
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
