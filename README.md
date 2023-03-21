@@ -5,9 +5,9 @@
 
 ### About
 
-Experience with development in C/C++, Python and Javascript/Typescript languages.
+Computer Engineering student. Experience in development with C, C++, Python and Javascript/Typescript languages. Also, extensive experience in REST API development (Node.js, FastAPI) as microservices. Knowledge and practice with CI/CD, TDD and Agile (Scrum/Kanban).
 
-I'm currently interested in software engineering and high performance programming.
+Interested in software engineering with high performance. Looking for challenging projects that require not just technical skill, but creativity and adaptability. Mainly interested in projects that impact people's quality of life. 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelv8&hide=stars&count_private=true&show_icons=true&theme=graywhite" />
