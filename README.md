@@ -9,21 +9,10 @@ Computer Engineering student at Instituto Tecnológico de Aeronáutica (ITA - Br
 
 Interested in software engineering with high performance. Looking for challenging projects that require not just technical skill, but creativity and adaptability. Mainly interested in projects that impact people's quality of life. 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=samuelv8&hide=stars&count_private=true&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=samuelv8&hide=stars&count_private=true&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-</picture>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelv8&hide=stars,issues&count_private=true&show_icons=true&show=reviews&rank_icon=github&theme=dark" />
 </a><a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelv8&hide=dart,jupyter_notebook&layout=compact&theme=graywhite&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelv8&hide=dart,vue,jupyter%20notebook,html,objective-c&layout=compact&langs_count=6&theme=dark" />
 </a>
 
 ### Knowledge
