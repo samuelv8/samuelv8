@@ -5,7 +5,7 @@
 
 ### About
 
-Computer Engineering student at Instituto Tecnológico de Aeronáutica (ITA - Brazil). Experience in development with C, C++, Python and Javascript/Typescript languages. Also, extensive experience in REST API development (Node.js, FastAPI). Knowledge and practice with CI/CD, TDD and Agile (Scrum/Kanban).
+Computer Engineer.
 
 Interested in software engineering with high performance. Looking for challenging projects that require not just technical skill, but creativity and adaptability. Mainly interested in projects that impact people's quality of life. 
 
